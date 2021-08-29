@@ -1,6 +1,6 @@
 import React from "react";
 
-import { ArrowDownward, ArrowDropDown, ArrowUpward } from "@material-ui/icons";
+import { ArrowDownward, ArrowUpward } from "@material-ui/icons";
 
 import "./Feature.css";
 const Feature = () => {
